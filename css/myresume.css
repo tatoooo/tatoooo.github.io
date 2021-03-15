@@ -1,9 +1,35 @@
 body {
 	font-family: 'Noto Sans TC', sans-serif;
 }
+
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'Noto Sans TC', sans-serif;
 }
 .subheading {
 	front family；'Noto Sans TC'sans-serif;
+	font-size: 1.2rem;
+	front weight: normals;
 }
+
+h1, h2, h3, h4, h5, h6, .subheading{
+	text-transform: none;
+}
+h1, .h1 {
+	front-size: 5rem;
+}
+p.lead {
+	 front-size: 1.2;
+}
+
+.bg-primary{
+	
+		 background-color:#00bcc2!improtant;
+		 background-image;url(../assets/img/IMG_6345.JPG);
+	 }
+	 
+	 .text-primary{
+		 color:#00bcc2!important;
+	 }
+	  a{
+		    color:#00bcc2:
+	  }
