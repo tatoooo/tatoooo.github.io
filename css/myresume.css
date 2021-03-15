@@ -18,18 +18,17 @@ h1, .h1 {
 	front-size: 5rem;
 }
 p.lead {
-	 front-size: 1.2;
+	front-size: 1.2;
 }
 
 .bg-primary{
-	
-		 background-color:#00bcc2!improtant;
-		 background-image;url(../assets/img/IMG_6345.JPG);
+	background-color:#00bcc2!improtant;
+	background-image;url(../assets/img/IMG_6345.JPG);
 	 }
 	 
-	 .text-primary{
-		 color:#00bcc2!important;
+.text-primary{
+	color:#00bcc2!important;
 	 }
-	  a{
-		    color:#00bcc2:
+a{
+	color:#00bcc2:
 	  }
