@@ -28,3 +28,15 @@ p.lead {
 a {
 	color:#3CB371;
 }
+
+table {
+ border-collapse: collapse;
+ width: 100%;
+}
+
+th, td {
+ padding: 8px;
+ text-align: left;
+ border-bottom: 1px solid #3CB371;
+ font-size: 1.1rem;
+}
