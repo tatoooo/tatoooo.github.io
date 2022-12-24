@@ -19,14 +19,14 @@ p.lead {
 	font-size: 1.2rem;
 }
 .bg-primary {
-	background-color:#3CB371!important;
+	background-color:#D1BBFF!important;
 	background-image:url(../assets/img/always-aquamarine.png);
 }
 .text-primary{
-	color:#3CB371!important;
+	color:#D1BBFF!important;
 }
 a {
-	color:#3CB371;
+	color:#D1BBFF;
 }
 
 table {
@@ -37,6 +37,6 @@ table {
 th, td {
  padding: 8px;
  text-align: left;
- border-bottom: 1px solid #3CB371;
+ border-bottom: 1px solid #D1BBFF;
  font-size: 1.1rem;
 }
