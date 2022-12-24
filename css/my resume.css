@@ -29,14 +29,3 @@ a {
 	color:#D1BBFF;
 }
 
-table {
- border-collapse: collapse;
- width: 100%;
-}
-
-th, td {
- padding: 8px;
- text-align: left;
- border-bottom: 1px solid #D1BBFF;
- font-size: 1.1rem;
-}
